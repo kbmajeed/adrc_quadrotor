@@ -6,9 +6,9 @@ ADRC uses an Extended state observer to linearize the Quadrotor's Nonlinear dyna
   
 ## Description  
 ![](formula4.png)   
-![](Figure2.png)  
+![](Figure2.PNG)  
   
   
 ## Results  
-![](figure1.png)  
+![](figure1.PNG)  
   
