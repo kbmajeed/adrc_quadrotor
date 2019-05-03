@@ -5,7 +5,8 @@
 ADRC uses an Extended state observer to linearize the Quadrotor's Nonlinear dynamics (similar to Feedback linearization). This makes it capable of eliminating disturbances (robustness).</p>  
   
 ## Description  
-![](figure2.png)  
+![](formula4.png)   
+![](Figure2.png)  
   
   
 ## Results  
